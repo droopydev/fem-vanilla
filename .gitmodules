@@ -1,0 +1,3 @@
+[submodule "fem-vanilla-n15"]
+	path = fem-vanilla-n15
+	url = https://github.com/droopydev/fem-vanilla-n15.git
